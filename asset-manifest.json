@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bhargavi-chevva/static/css/main.8e03ad1a.css",
-    "main.js": "/bhargavi-chevva/static/js/main.55e7ac8b.js",
+    "main.js": "/bhargavi-chevva/static/js/main.d2babe4f.js",
     "static/media/sjsu-logo2.jpg": "/bhargavi-chevva/static/media/sjsu-logo2.08d08dcc52904d045d07.jpg",
     "static/media/hv-logo.jpg": "/bhargavi-chevva/static/media/hv-logo.75a01f16c4aab6d44681.jpg",
     "index.html": "/bhargavi-chevva/index.html",
     "main.8e03ad1a.css.map": "/bhargavi-chevva/static/css/main.8e03ad1a.css.map",
-    "main.55e7ac8b.js.map": "/bhargavi-chevva/static/js/main.55e7ac8b.js.map"
+    "main.d2babe4f.js.map": "/bhargavi-chevva/static/js/main.d2babe4f.js.map"
   },
   "entrypoints": [
     "static/css/main.8e03ad1a.css",
-    "static/js/main.55e7ac8b.js"
+    "static/js/main.d2babe4f.js"
   ]
 }
